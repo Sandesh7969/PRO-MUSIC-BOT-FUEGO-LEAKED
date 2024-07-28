@@ -1,11 +1,11 @@
 # @format
 
 BOT:
-  OWNERS: ["1173547185758015498"]
-  ADMINS: ["1173547185758015498"]
+  OWNERS: ["1131953433134497923"]
+  ADMINS: ["1131953433134497923"]
 
 LINKS:
-  SUPPORT: "https://discord.gg/DApdRsEFtb"
+  SUPPORT: "https://discord.gg/GPzYFx7zfe"
   MONGO_URI: "mongodb+srv://Kronix1:arjun@cluster0.ob9wwsc.mongodb.net/?retryWrites=true&w=majority"
 
 SPOTIFY:
@@ -13,11 +13,11 @@ SPOTIFY:
   SECRET: "498f461b962443cfaf9539c610e2ea81"
 
 MANAGER:
-  OWNER: "1173547185758015498"
+  OWNER: "1131953433134497923"
   TOKEN: ""
 
 FUEGO:
-  PREFIX: ","
+  PREFIX: "#"
   EMOJIS: "black"
   COLOR: "#555555"
   SHARDS: 1
@@ -27,8 +27,8 @@ FUEGO:
 
 
 WEBHOOKS:
-  ERROR: "https://discord.com/api/webhooks/1254308889906643084/BZp1u-ZUt5GkwgscIG_rT1Ss0ZmPBG2b0SvWSET_FaXfRVrA75BlTF4KtXOW1neFUri2"
-  STATIC: "https://discord.com/api/webhooks/1254308889906643084/BZp1u-ZUt5GkwgscIG_rT1Ss0ZmPBG2b0SvWSET_FaXfRVrA75BlTF4KtXOW1neFUri2"
-  PLAYER: "https://discord.com/api/webhooks/1254308889906643084/BZp1u-ZUt5GkwgscIG_rT1Ss0ZmPBG2b0SvWSET_FaXfRVrA75BlTF4KtXOW1neFUri2"
-  SERVER: "https://discord.com/api/webhooks/1254308889906643084/BZp1u-ZUt5GkwgscIG_rT1Ss0ZmPBG2b0SvWSET_FaXfRVrA75BlTF4KtXOW1neFUri2"
-  COMMAND: "https://discord.com/api/webhooks/1254308889906643084/BZp1u-ZUt5GkwgscIG_rT1Ss0ZmPBG2b0SvWSET_FaXfRVrA75BlTF4KtXOW1neFUri2"
+  ERROR: "https://discord.com/api/webhooks/1242433499684671591/O8B17QhpgjzA2HKBzHlA0_zs6XomWOKcMqkvOmes763onzbUX3ynfiyvYrBg6AKMnXHx"
+  STATIC: "https://discord.com/api/webhooks/1242433499684671591/O8B17QhpgjzA2HKBzHlA0_zs6XomWOKcMqkvOmes763onzbUX3ynfiyvYrBg6AKMnXHx"
+  PLAYER: "https://discord.com/api/webhooks/1242433499684671591/O8B17QhpgjzA2HKBzHlA0_zs6XomWOKcMqkvOmes763onzbUX3ynfiyvYrBg6AKMnXHx"
+  SERVER: "https://discord.com/api/webhooks/1242433499684671591/O8B17QhpgjzA2HKBzHlA0_zs6XomWOKcMqkvOmes763onzbUX3ynfiyvYrBg6AKMnXHx"
+  COMMAND: "https://discord.com/api/webhooks/1242433499684671591/O8B17QhpgjzA2HKBzHlA0_zs6XomWOKcMqkvOmes763onzbUX3ynfiyvYrBg6AKMnXHx"
